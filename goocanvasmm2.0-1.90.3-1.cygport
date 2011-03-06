@@ -1,6 +1,6 @@
 inherit gtkmm
 
-PKG_NAMES="lib${PN}_5 lib${PN}-devel lib${PN}-doc"
-libgoocanvasmm2_0_5_CONTENTS="--exclude=goocanvasmm-2.0 usr/bin/*-2.0-5.dll usr/share/doc/"
+PKG_NAMES="lib${PN}_6 lib${PN}-devel lib${PN}-doc"
+libgoocanvasmm2_0_6_CONTENTS="--exclude=goocanvasmm-2.0 usr/bin/*-2.0-6.dll usr/share/doc/"
 libgoocanvasmm2_0_devel_CONTENTS="usr/include/ usr/lib/"
 libgoocanvasmm2_0_doc_CONTENTS="usr/share/devhelp/ usr/share/doc/goocanvasmm-2.0/"
