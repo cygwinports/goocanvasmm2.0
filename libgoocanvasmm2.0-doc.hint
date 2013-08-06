@@ -1,5 +1,0 @@
-category: Gnome
-requires: libglibmm2.4-doc libgtkmm3.0-doc
-external-source: goocanvasmm2.0
-sdesc: "C++ bindings to the goocanvas library (documentation)"
-ldesc: "C++ bindings to the goocanvas library"

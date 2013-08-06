@@ -1,6 +1,13 @@
 inherit gtkmm
 
-PKG_NAMES="lib${PN}_6 lib${PN}-devel lib${PN}-doc"
+NAME="goocanvasmm2.0"
+VERSION=1.90.9
+RELEASE=1
+CATEGORY="Libs"
+SUMMARY="C++ bindings to the goocanvas library"
+DESCRIPTION="C++ bindings to the goocanvas library"
+
+PKG_NAMES="lib${NAME}_6 lib${NAME}-devel lib${NAME}-doc"
 libgoocanvasmm2_0_6_CONTENTS="--exclude=goocanvasmm-2.0 usr/bin/*-2.0-6.dll usr/share/doc/"
 libgoocanvasmm2_0_devel_CONTENTS="usr/include/ usr/lib/"
 libgoocanvasmm2_0_doc_CONTENTS="usr/share/devhelp/ usr/share/doc/goocanvasmm-2.0/"

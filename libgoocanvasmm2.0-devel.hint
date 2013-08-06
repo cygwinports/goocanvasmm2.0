@@ -1,5 +1,0 @@
-category: Gnome
-requires: libgoocanvasmm2.0_6 libatkmm1.6-devel libcairomm1.0-devel libglib2.0-devel libglibmm2.4-devel libgtkmm3.0-devel libgoocanvas2.0-devel libsigc2.0-devel libstdc++6-devel
-external-source: goocanvasmm2.0
-sdesc: "C++ bindings to the goocanvas library (development)"
-ldesc: "C++ bindings to the goocanvas library"
