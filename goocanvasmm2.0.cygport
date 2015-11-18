@@ -1,7 +1,7 @@
 inherit gtkmm
 
 NAME="goocanvasmm2.0"
-VERSION=1.90.9
+VERSION=1.90.11
 RELEASE=1
 CATEGORY="Libs"
 SUMMARY="C++ bindings to the goocanvas library"
